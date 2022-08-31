@@ -1,1 +1,1 @@
-Script that prints the absolute path name of the current working directory
+Thi readme displays the file The long format 
