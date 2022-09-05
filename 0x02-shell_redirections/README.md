@@ -1,1 +1,1 @@
-A script that displays the third line of the file iacta
+a shell script that creates task 7 solution
