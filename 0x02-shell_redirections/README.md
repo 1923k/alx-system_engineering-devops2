@@ -1,1 +1,1 @@
-a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
+a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it
