@@ -1,1 +1,1 @@
-a script that creates an alias
+first readme file for task 0
